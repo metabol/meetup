@@ -1,3 +1,3 @@
 # Meetup Repository
 
-This is a general purpose meetup repo organized by topic and date.
+This is a general purpose meetup repository organized by topic and date.
